@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Mai&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+.App {
+  text-align: center;
+}
+body{
+  background:linear-gradient(90deg,#262c40,#35467c,#063155);
+  color: whitesmoke;
+}
+h1{
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 3rem;
+}
+.input{
+  width: 200px;
+  padding: 10px;
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  margin: 10px;
+  font-size: 1.3rem;
+  border-radius: 10px;
+}
+button{
+  background-color: rgb(127, 5, 36);
+  color: #fff;
+  padding: 10px;
+  font-size: 1.3rem;
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  margin: 5px;
+  border-radius: 10px;
+}
